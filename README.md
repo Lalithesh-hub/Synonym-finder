@@ -9,3 +9,13 @@ Handling Multiple Synonyms: The app displays the synonyms as a list. You can enh
 Part of Speech: If you want to improve the accuracy of synonyms, you can incorporate word types (e.g., noun, verb, adjective) when calling wordnet.synsets(). WordNet has different sets of synonyms for different parts of speech.
 
 You can modify the get_synonyms function to allow the user to select a part of speech, for
+Synonym Finder in Python
+A Synonym Finder is a tool that helps to identify words that have similar meanings to a given word. In Python, we can use several methods and libraries to find synonyms, with the most common being:
+
+NLTK (Natural Language Toolkit): Using WordNet (a lexical database of English).
+spaCy: Another NLP library that provides powerful tools, although its synonym finding might require additional custom logic or integration with WordNet or other sources.
+PyDictionary: A Python wrapper around the Google search API that can be used to find synonyms and meanings.
+Here, we'll cover a few approaches for building a Synonym Finder using Python.
+
+"Using streamlit for ease use of UI "
+Thank you
