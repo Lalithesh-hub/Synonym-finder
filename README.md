@@ -1,3 +1,12 @@
+Hello eveyone!
+This is my first repo so please excuse me for any issue in the code
+you can notify me with your thoughts and pitch me anytime.....
+Before using this we should have download pre-requirities:
+1)Install streamlit and nltk:
+   pip install streamlit nltk
+2)import the needed files
+3)Then run the streamlit using:
+  streamlit run <filename.py>
 Install the required libraries: If you haven't already, install streamlit and nltk:
 pip install streamlit nltk
 Download NLTK WordNet data: If you haven't done this yet, you'll need to download the necessary NLTK data for WordNet:
